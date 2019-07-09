@@ -1,0 +1,20 @@
+/*
+
+*/
+
+body {
+	border: solid 1px red;
+	padding: 3px;
+}
+
+div {
+	border: solid 1px green;
+	padding: 3px;
+}
+
+p {
+	border: solid 2px blue;
+	padding: 3px;
+}
+
+
