@@ -20,7 +20,7 @@ for (var i = 0, f; f = files[i]; i++) {
     var reader = new FileReader();
     reader.readAsTest(files[i], 'UTF-8');
 
-    reader.onload = function(evt) {
+    reader.onload = function(evt){
         var span = document.createElement('span');
         span.setAttribute("class", "svgshow");
         span.innerHTML = evt.target.result;
