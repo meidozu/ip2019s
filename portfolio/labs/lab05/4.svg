@@ -1,0 +1,10 @@
+
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0,0,512,512">
+
+  <rect width="512" height="512" stroke="blue" fill="white"></rect>
+
+<text xmlns="http://www.w3.org/2000/svg" font-size="700px" fill="skyblue" x="100" y="400">e</text>
+<path xmlns="http://www.w3.org/2000/svg" fill="none" stroke="gold" stroke-width="6" d="M 128 384 Q 192 160 384 64"/>
+<path xmlns="http://www.w3.org/2000/svg" fill="none" stroke="gold" stroke-width="5" d="M 384 64 Q 412 64 384 155"/>
+<path xmlns="http://www.w3.org/2000/svg" fill="none" stroke="gold" stroke-width="5" d="M 128 384 Q 130 440 187 384"/>
+</svg>
