@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" baseProfile="full" version="1.1">
+
+  <rect fill="white" stroke="red" width="512" height="512" />
+
+ 
+
+<circle fill="none" stroke="black" stroke-width="2" cx="256" cy="310" r="160" />
+<circle fill="none" stroke="black" stroke-width="2" cx="192" cy="256" r="30" />
+<circle fill="none" stroke="black" stroke-width="2" cx="320" cy="256" r="30" />
+
+<text style="font-size:24px;" x="192" y="384">我叫哆啦A夢</text> 
+
+
+ 
+</svg>
