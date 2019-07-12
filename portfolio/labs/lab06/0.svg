@@ -13,16 +13,36 @@
     <animate attributeName="opacity" to="1" begin="0s" dur="2s" fill="freeze" repeatCount="0" />
   </circle>
 
-<circle fill="Lavender" stroke="#213565" cx="410" cy="127" r="6" opacity="0.2">
+<circle fill="Lavender" stroke="#213565" cx="237" cy="53" r="6" opacity="0.2">
     <animate attributeName="opacity" to="1" begin="0s" dur="5s" fill="freeze" repeatCount="0" />
   </circle>
 
-<circle fill="Lavender" stroke="#9a93f4" cx="425" cy="157" r="8" opacity="0.2">
+<circle fill="Lavender" stroke="#9a93f4" cx="318" cy="13" r="8" opacity="0.2">
     <animate attributeName="opacity" to="1" begin="0s" dur="8s" fill="freeze" repeatCount="0" />
   </circle>
 
-<circle fill="Lavender" stroke="#676d58" cx="250" cy="225" r="10" opacity="0.2">
+<circle fill="Lavender" stroke="#676d58" cx="410" cy="128" r="10" opacity="0.2">
     <animate attributeName="opacity" to="1" begin="0s" dur="11s" fill="freeze" repeatCount="0"/>
+  </circle>
+
+<circle fill="Lavender" stroke="##213565" cx="402" cy="200" r="4" opacity="0.2">
+    <animate attributeName="opacity" to="1" begin="0s" dur="2s" fill="freeze" repeatCount="0" />
+  </circle>
+
+<circle fill="Lavender" stroke="#9a93f4" cx="500" cy="100" r="4" opacity="0.2">
+    <animate attributeName="opacity" to="1" begin="0s" dur="2s" fill="freeze" repeatCount="0" />
+  </circle>
+
+<circle fill="Lavender" stroke="#f0f" cx="272" cy="221" r="4" opacity="0.2">
+    <animate attributeName="opacity" to="1" begin="0s" dur="2s" fill="freeze" repeatCount="0" />
+  </circle>
+
+<circle fill="Lavender" stroke="#9a93f4" cx="202" cy="250" r="4" opacity="0.2">
+    <animate attributeName="opacity" to="1" begin="0s" dur="2s" fill="freeze" repeatCount="0" />
+  </circle>
+
+<circle fill="Lavender" stroke="#f0f" cx="186" cy="151" r="6" opacity="0.2">
+    <animate attributeName="opacity" to="1" begin="0s" dur="2s" fill="freeze" repeatCount="0" />
   </circle>
 
 
